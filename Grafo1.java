@@ -175,7 +175,7 @@ System.out.println("Romblas a Galerias");
 	        g.agregarRuta('a','f', 9.2);
 
 	   
-	        char Elcomienzo = 'a';
+	        char Elcomienzo = 'b';
 	        char Elfinal    = 'd';
 	       // char bajo=
 
